@@ -16,7 +16,7 @@ import urllib.parse
 import re
 
 # VARIABLES
-FOLDER_EXTRACTION = "L:/NOTION/exporten/krt4"
+FOLDER_EXTRACTION = "C:/Notion/export/folder"
 MARKDOWN_EXTENSION = "md"
 filename_backup = ""
 
