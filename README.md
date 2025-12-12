@@ -2,6 +2,8 @@
 
 Simple script to convert a Notion export to a Joplin import (MD - Markdown directory).
 
+This script also removes characters that Windows doesn't allow in file names from the Notion titles.
+
 ## Requirements
 
 - Python 3.6+
