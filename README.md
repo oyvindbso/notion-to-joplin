@@ -15,7 +15,7 @@ This script also removes characters that Windows doesn't allow in file names fro
 2. Download script.
 
 ```bash
-curl -O https://github.com/tanrax/notion-to-joplin/raw/main/notion-to-joplin.py
+curl -O https://github.com/oyvindbso/notion-to-joplin/raw/main/notion-to-joplin.py
 ```
 
 3. Run the script:
@@ -27,7 +27,7 @@ python3 notion-to-joplin.py -f <path/to/your/export>
 Example:
 
 ```bash
-python3 notion-to-joplin.py -f b25c8352-f87b-4b5b-ce0a-61d09c5bd81b_Export-9e0c6ec4-762b-4d70-b30e-045ece8b4722.zip
+python3 notion-to-joplin.py -f folder-with-extracted-notion-files/
 ```
 
 4. Import the generated folder into Joplin.
